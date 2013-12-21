@@ -6,7 +6,7 @@ From [Google Drive SDK Realtime Quickstart](https://developers.google.com/drive/
 To startr:
 
 ```bash
-$ startr get toolr/rtdrive.startr [Client ID]
+$ startr get git@github.com:toolr/rtdrive.startr.git [Client ID]
 ```
 
-Get Client ID from Cloud console.
+Get Client ID from Cloud console: https://cloud.google.com.
